@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE cross-domain-policy SYSTEM "http://www.adobe.com/xml/dtds/cross-domain-policy.dtd">
+
+
+<cross-domain-policy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.adobe.com/xml/schemas/PolicyFile.xsd">
+        <site-control permitted-cross-domain-policies="all"/>
+	<allow-access-from domain="github.io" secure="false"/>
+	<allow-access-from domain="*.github.io" secure="false"/>
+	<allow-access-from domain="nkstatic.com" secure="false"/>
+	<allow-access-from domain="*.nkstatic.com" secure="false"/>
+	<allow-access-from domain="ninjakiwifiles.com" secure="false"/>
+   	<allow-access-from domain="kongregate.com" secure="false"/>
+	<allow-access-from domain="*.kongregate.com" secure="false"/>
+	<allow-access-from domain="konggames.com" secure="false"/>
+	<allow-access-from domain="*.konggames.com" secure="false"/>
+	<allow-access-from domain="kaisergames.de" secure="false"/>
+	<allow-access-from domain="*.kaisergames.de" secure="false"/>
+	<allow-access-from domain="armorgames.com" secure="false"/>
+	<allow-access-from domain="*.armorgames.com" secure="false"/>
+	<allow-access-from domain="coolmathgames.com" secure="false"/>
+	<allow-access-from domain="*.coolmathgames.com" secure="false"/>
+</cross-domain-policy>
