@@ -1,0 +1,38 @@
+{
+	"black": [
+		"7k7k.com",
+		"oyunskor.com",
+		"frivok.org"
+	],
+	"adFree": [
+	"fgl.com",
+	"bobydob.github.io",
+	"github.io",
+	"kaisergames.de",
+	"notdoppler.com",
+	"meowbeast.com",
+	"flazm.com",
+	"gamezhero.com",
+	"macrojuegos.com",
+	"box10.com"
+	],
+	"links": [
+	],
+	"ads": {
+		"300x250" : [
+			{
+				"pic": "cpmstar",
+				"weight": 100
+			},
+			{
+				"pic": "epic",
+				"weight": 0
+			}
+		],
+		"151" : [
+		],
+		"152" : [
+		]
+	},
+	"defaultCategory": 0
+}
